@@ -13,9 +13,9 @@ export type GlobalSite = {
 };
 
 export const GLOBAL: GlobalSite = {
-  title: "Astro Milidev",
-  description: "a minimalistic blog+portfolio Astro theme",
-  author: "John Doe",
+  title: "artemka.tech ٩(ˊᗜˋ*)و",
+  description: "Surprise! Yes, this website is mine!",
+  author: "Artem Romanovich",
   authorPhotoSrc: "/johndoe.png",
   logo: {
     darkThemeSrc: "/logo/logo_dark.png",
